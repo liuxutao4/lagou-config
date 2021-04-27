@@ -1,1 +1,4 @@
-nihao
+mysql:
+  user: root
+person:
+  name: liuxt
